@@ -7,7 +7,7 @@
 
 </div>
 
-Data Scientist working on combinatorial optimization, machine learning, and data engineering.
+Data Scientist.
 
 ---
 
@@ -84,5 +84,5 @@ Data Scientist working on combinatorial optimization, machine learning, and data
 ---
 
 <div align="center">
-  <i>Seeking opportunities in Data Science, Data Engineering, and Algorithmic Optimization.</i>
+  <i>Seeking opportunities in Data Science and Data Engineering.</i>
 </div>
