@@ -7,7 +7,7 @@
 
 </div>
 
-Data Scientist.
+Data Scientist focused on Machine Learning and Deep Learning research.
 
 ---
 
@@ -84,5 +84,5 @@ Data Scientist.
 ---
 
 <div align="center">
-  <i>Seeking opportunities in Data Science and Data Engineering.</i>
+  <i>Seeking opportunities in Data Science, Machine Learning, and Deep Learning research.</i>
 </div>
