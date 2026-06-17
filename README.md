@@ -7,36 +7,36 @@
 
 </div>
 
-Data Scientist focused on driving insights through data, algorithms, and efficient engineering. Passionate about building scalable solutions and solving complex optimization challenges.
+Data Scientist working on combinatorial optimization, machine learning, and data engineering.
 
 ---
 
 ## Featured Projects
 
-### 🚀 [2D Strip Packing Optimization](https://github.com/onasiscart/te_tela)
+### [2D Strip Packing Optimization](https://github.com/onasiscart/te_tela)
 **Combinatorial Optimization & Metaheuristics**
 
 * Implemented three algorithmic approaches to solve the NP-hard 2D Strip Packing problem.
 * **Exhaustive Search**: Branch & Bound with advanced pruning.
-* **Greedy Algorithm**: Area-based heuristic ($O(n \log n)$).
+* **Greedy Algorithm**: Area-based heuristic (`O(n log n)`).
 * **Genetic Algorithm**: Population-based metaheuristic with custom crossover.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Algorithm](https://img.shields.io/badge/Algorithm-Optimization-red?style=flat-square)
 
 ---
 
-### 📊 [Aviation Fleet Analytics](https://github.com/onasiscart/BDA_proj1)
+### [Aviation Fleet Analytics](https://github.com/onasiscart/BDA_proj1)
 **Big Data Architecture & ETL**
 
 * End-to-end data warehouse solution for aviation performance analysis.
-* Designed a star schema optimized for OLAP queries, achieving **40-50x query speedup**.
-* Implemented rigorous data quality controls and calculated industry-standard KPIs.
+* Designed a star schema optimized for OLAP queries, achieving 40-50x query speedup.
+* Implemented data quality controls and calculated industry-standard KPIs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-### 🧠 [Liver Disease Classification](https://github.com/onasiscart/Liver_Disease_Classification)
+### [Liver Disease Classification](https://github.com/onasiscart/Liver_Disease_Classification)
 **Binary Classification & Healthcare Analytics**
 
 * Developed supervised learning models to classify liver disease patients.
@@ -47,7 +47,7 @@ Data Scientist focused on driving insights through data, algorithms, and efficie
 
 ---
 
-### 🗺️ [Routes i Monuments](https://github.com/jordicorbalanvilaplana/rutes_i_monuments)
+### [Routes i Monuments](https://github.com/jordicorbalanvilaplana/rutes_i_monuments)
 **Geospatial Analysis & Algorithms**
 
 * Developed a route generation engine combining GPS trajectory analysis with graph theory.
