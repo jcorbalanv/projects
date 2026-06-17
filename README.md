@@ -7,7 +7,7 @@
 
 </div>
 
-Data Scientist focused on Machine Learning and Deep Learning research.
+Data Scientist focused on Machine Learning and Deep Learning, bridging research and practical solutions.
 
 ---
 
@@ -84,5 +84,5 @@ Data Scientist focused on Machine Learning and Deep Learning research.
 ---
 
 <div align="center">
-  <i>Seeking opportunities in Data Science, Machine Learning, and Deep Learning research.</i>
+  <i>Seeking opportunities in Data Science, Machine Learning, and Deep Learning (Research & Solutions).</i>
 </div>
