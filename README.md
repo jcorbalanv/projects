@@ -6,8 +6,8 @@ As an undergraduate researcher in the Alexander G. Ioannidis Lab at Stanford Uni
 
 ## Featured Projects
 
-- **[COVID-19 Classification from Coughs](https://github.com/onasiscart/COVID_19_Classification_from_coughs)** — Deep Learning experiments for COVID-19 classification from cough recordings, comparing CNNs and pretrained speech models. Developed for the NLP course at UPC.
-- **[Language Identification using RNNs](https://github.com/onasiscart/Language_Identification)** — Written language identification with PyTorch, comparing RNN, GRU, and LSTM architectures with Optuna hyperparameter tuning. Developed for the NLP course at UPC.
+- **[COVID-19 Classification from Coughs](https://github.com/onasiscart/COVID_19_Classification_from_coughs)** — Deep Learning for COVID-19 classification from cough recordings, combining CNN experiments with pretrained model adaptation and fine-tuning. Developed for the NLP course at UPC.
+- **[Language Identification using RNNs](https://github.com/onasiscart/Language_Identification)** — Experimental study of neural sequence models for written language identification, investigating recurrent architectures, attention mechanisms, and hyperparameter optimization through comparative evaluation in PyTorch. Developed for the NLP course at UPC.
 - **[Aviation Fleet Analytics](https://github.com/onasiscart/Data_Warehousing_Aviation_Analytics)** — Python ETL pipeline and DuckDB data warehouse for aviation fleet performance and reliability KPIs, using PostgreSQL source data.
 - **[2D Strip Packing Optimization](https://github.com/onasiscart/2D_Strip_Packing_Optimization)** — Combinatorial optimization in C++, exploring Branch & Bound, greedy heuristics, and genetic algorithms for the 2D Strip Packing problem.
 
