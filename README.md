@@ -1,88 +1,25 @@
-# Jordi Corbalan Vilaplana
+# Hi, I'm Jordi!
 
-<div align="left">
+I'm Jordi Corbalan Vilaplana, a Data Science and Engineering undergraduate at UPC, also studying Pharmacy. My main focus is Machine Learning research, particularly reliable and trustworthy AI for biomedical applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordicorbalanvilaplana/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/jcorbalanv)
-
-</div>
-
-Data Scientist focused on Machine Learning and Deep Learning, bridging research and practical solutions.
-
----
+As an undergraduate researcher in the Alexander G. Ioannidis Lab at Stanford University, I work on missing-data imputation and clinical prediction under uncertainty.
 
 ## Featured Projects
 
-### [2D Strip Packing Optimization](https://github.com/onasiscart/te_tela)
-**Combinatorial Optimization & Metaheuristics**
+- **[COVID-19 Classification from Coughs](https://github.com/onasiscart/COVID_19_Classification_from_coughs)** — Deep Learning experiments for COVID-19 classification from cough recordings, comparing CNNs and pretrained speech models. Developed for the NLP course at UPC.
+- **[Language Identification using RNNs](https://github.com/onasiscart/Language_Identification)** — Written language identification with PyTorch, comparing RNN, GRU, and LSTM architectures with Optuna hyperparameter tuning. Developed for the NLP course at UPC.
+- **[Aviation Fleet Analytics](https://github.com/onasiscart/Data_Warehousing_Aviation_Analytics)** — Python ETL pipeline and DuckDB data warehouse for aviation fleet performance and reliability KPIs, using PostgreSQL source data.
+- **[2D Strip Packing Optimization](https://github.com/onasiscart/2D_Strip_Packing_Optimization)** — Combinatorial optimization in C++, exploring Branch & Bound, greedy heuristics, and genetic algorithms for the 2D Strip Packing problem.
 
-* Implemented three algorithmic approaches to solve the NP-hard 2D Strip Packing problem.
-* **Exhaustive Search**: Branch & Bound with advanced pruning.
-* **Greedy Algorithm**: Area-based heuristic (`O(n log n)`).
-* **Genetic Algorithm**: Population-based metaheuristic with custom crossover.
+## Tech I've Worked With
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Algorithm](https://img.shields.io/badge/Algorithm-Optimization-red?style=flat-square)
+- **Programming languages:** Python, SQL, C++, C, MATLAB
+- **Machine Learning & data science:** PyTorch, scikit-learn, pandas, NetworkX
+- **Data engineering:** Spark, DuckDB, PostgreSQL, MongoDB, ETL
+- **Tools & infrastructure:** Git, AWS
 
----
+## Get in Touch
 
-### [Aviation Fleet Analytics](https://github.com/onasiscart/BDA_proj1)
-**Big Data Architecture & ETL**
+I'm seeking research opportunities in Machine Learning and Deep Learning, particularly in reliable AI and biomedical applications. Feel free to reach out about research positions or collaborations.
 
-* End-to-end data warehouse solution for aviation performance analysis.
-* Designed a star schema optimized for OLAP queries, achieving 40-50x query speedup.
-* Implemented data quality controls and calculated industry-standard KPIs.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-### [Liver Disease Classification](https://github.com/onasiscart/Liver_Disease_Classification)
-**Binary Classification & Healthcare Analytics**
-
-* Developed supervised learning models to classify liver disease patients.
-* Mitigated class imbalance using weighted ensembles and optimized for F1-score.
-* Achieved competitive performance with Gaussian Naive Bayes for interpretability.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
----
-
-### [Routes i Monuments](https://github.com/jordicorbalanvilaplana/rutes_i_monuments)
-**Geospatial Analysis & Algorithms**
-
-* Developed a route generation engine combining GPS trajectory analysis with graph theory.
-* Identifies optimal paths to medieval monuments across Catalonia.
-* Features custom visualization of geospatial data.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Graph Theory](https://img.shields.io/badge/Math-Graph%20Theory-orange?style=flat-square)
-
----
-
-## Technical Proficiency
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-
-### Libraries & Frameworks
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-orange?style=flat-square)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-
-### Tools & Ecosystem
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![ETL](https://img.shields.io/badge/Data-ETL-blue?style=flat-square)
-
----
-
-<div align="center">
-  <i>Seeking opportunities in Data Science, Machine Learning, and Deep Learning (Research & Solutions).</i>
-</div>
+[LinkedIn](https://www.linkedin.com/in/jordicorbalanvilaplana/) · [GitHub](https://github.com/jcorbalanv)
